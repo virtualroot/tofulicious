@@ -14,8 +14,18 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# Do not store certificates
+*.pem
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
 # Go workspace file
 go.work
+
+# Specifics to tofulicious
+TODO.md
+/tofulicious
+/build
+.terraform
+.env
