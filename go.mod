@@ -3,7 +3,7 @@ module github.com/virtualroot/tofulicious
 go 1.23.1
 
 require (
-	github.com/go-chi/chi/v5 v5.1.0
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/go-chi/render v1.0.3
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
